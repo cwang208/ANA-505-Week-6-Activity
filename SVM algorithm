@@ -64,7 +64,7 @@ tab
 #What is the accuracy rate?
 accuracy <- 1 - sum(diag(tab)) / sum(tab)
 accuracy
-#accuracy rate is 0.02666667
+#accuracy rate is 2.666667%
 
 
 
