@@ -71,6 +71,7 @@ correctly_classified_percent <- mean(testData$Species == predict(dtModel, testDa
 
 # Print the percentage of correctly classified cases
 cat("Percentage of correctly classified cases:", correctly_classified_percent, "%\n")
+#accuracy rate is 100%
 
 
 
