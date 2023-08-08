@@ -66,5 +66,6 @@ accuracy_percentage <- accuracy * 100
 
 # Print the accuracy percentage
 cat("Accuracy:", accuracy_percentage, "%\n")
+#accuracy rate is 88.66667%
 
 
